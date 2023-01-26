@@ -34,6 +34,9 @@ main a {
 
 .dog-list-container {
   /* your code */
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
 }
 
 .fluid-text {
